@@ -214,4 +214,4 @@ e952b772-80a5-41e9-b728-6bc3dc5c21b4
 
 ## Authors
 
-- [Elilta Tesfagabr](https://github.com/Ella7d/)
+- [Simon Teclai](https://github.com/Simonteclai/)
